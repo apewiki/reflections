@@ -1,0 +1,6 @@
+Hi
+
+Diagrams help determine which state is reachable which is not
+
+wht are the pros and cons of Git's automatic merging vs. always doing merges manually?
+logical conflicts may not be detected by automatic merge
